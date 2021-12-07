@@ -1,0 +1,15 @@
+Used: 	- SCSS to CSS.
+	- BX icons
+	- gg font: roboton
+---
+version 1:
+- Done: router-dom, Home page, Contact, Components
+- Not Done: 
+	+ Cart, User, Product, Payment, Story, Policy page.
+	+ Lack of Images
+	+ Contact Page: Was an image not link.
+- Idea: 
+	+ New section: newspaper API.
+	+ GG maps located in footer. 
+{:Quang Huy:}
+--- 
